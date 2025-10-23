@@ -48,3 +48,9 @@
 - [ ] Uložiť históriu do localStorage
 - [ ] Načítať históriu pri načítaní stránky
 - [ ] Umožniť trvalé uloženie výpočtov
+- 
+### 2. Extra ulohy
+
+- [ ] Vymazanie konkretneho zaznamu z historie
+- [ ] Zaokruhlit vysledkok na 2 desatinne miesta
+- [ ] Pridat button na vypocitanie prikladu znova
